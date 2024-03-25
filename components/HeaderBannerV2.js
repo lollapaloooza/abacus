@@ -15,6 +15,7 @@ export default function HeaderBannerV2() {
     )
     .replace("{spanStyleEnd}", "</span>");
 
+
   return (
     <Box sx={{}}>
       <Box

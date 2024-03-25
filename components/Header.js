@@ -18,7 +18,6 @@ export default function Header({ isntMain, title, description, whiteSpace }) {
   const { t } = useTranslation();
   const mobile = useMediaQuery((theme) => theme.breakpoints.down("tablet"));
 
-  console.log(route, 'route||')
   useEffect(() => {
     let lastScrollY = window.pageYOffset;
 
