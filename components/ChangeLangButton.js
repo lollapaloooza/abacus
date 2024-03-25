@@ -19,7 +19,7 @@ export default function ChangeLangButton({ top, mobile }) {
 
   const languages = [
     { name: "ru", icon: <Rus /> },
-    { name: "uz", icon: <Uzb /> },
+    // { name: "uz", icon: <Uzb /> },
     // { name: "en", icon: <Eng /> },
   ];
   return (
