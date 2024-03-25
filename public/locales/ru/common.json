@@ -1,0 +1,561 @@
+{
+  "ru": "Ру",
+  "uz": "O`z",
+  "en": "Eng",
+  "About Us": "О нас",
+  "Appointment": "Запись",
+  "Available Hours": "Доступные часы",
+  "Business Law": "Недвижимость и строительство",
+  "Cases": "Кейсы",
+  "Cases Handled": "Рассмотренных дел",
+  "Enter": "Отправить",
+  "Client": "Клиент",
+  "Contact Us": "Контакты",
+  "Our contacts": "Наши контакты",
+  "Copyright @2022 Abacus All Right Reserved": "Авторское право @2022 Абакус. Все права защищены",
+  "Documentation": "Документация",
+  "Date": "Дата",
+  "About project": "Подробнее о проекте",
+  "Education Lawyer & Consultation": "Копроративное право и M&A",
+  "Experience": "Опыт",
+  "First": "Первое",
+  "First Name": "Имя",
+  "FaQ": "ЧаВо",
+  "Get started": "Начать",
+  "Get In Touch": "Оставить заявку",
+  "Happy Client": "Счастливый клиент",
+  "Home": "Главная",
+  "Last": "Последное",
+  "Latest Lawyered Cases": "Последние юридические дела",
+  "Last Name": "Фамилия",
+  "Lawyer": "Юрист",
+  "Lawyers": "Юристы",
+  "Links": "Полезные ссылки",
+  "Longest Handled Cases": "Дела, рассматривавшиеся дольше всего",
+  "Make Appointment": "Назначить встречу",
+  "Message": "Сообщение",
+  "News": "Новости",
+  "optional": "необязательно",
+  "Our Client": "Наши клиенты",
+  "Our Mission": "Наша миссия",
+  "Our Vision": "Наша цель",
+  "Photo Documentation": "Фотодокументация",
+  "Pages": "Страницы",
+  "Practices": "Практики",
+  "Read more": "Читать далее",
+  "read more": "читать далее",
+  "Read now": "Читать сейчасже",
+  "Related News": "Похожие новости",
+  "Recommendation News": "Рекомендация Новости",
+  "Responsible Raised": "Ответственность и воспитание",
+  "See details": "Подробнее",
+  "See more": "Подробнее",
+  "Services": "Услуги",
+  "Projects": "Проекты",
+  "Success Handled Cases": "Успешные дела",
+  "Success Story": "История успеха",
+  "Submit": "Submit",
+  "Testimonials": "Отзывы",
+  "Your Email": "Электронная почта",
+  "Your Name": "Имя",
+  "Your Phone": "Ваш телефон",
+  "Video Documentation": "Видео Документация",
+  "Welcome Message": "Приветствие",
+  "Team": "Команда",
+  "header": {
+    "main": {
+      "title": "{spanStyleStart}Abacus{spanStyleEnd} - юридический проводник в мире закона"
+    },
+    "about_us": {
+      "description": "Abacus - команда профессионалов, специализирующихся на юридическом аутсорсинге предпринимательской деятельности на территории Республики Узбекистан."
+    },
+    "services": {
+      "description": "Abacus предоставляет широкий спектр юридических услуг, направленных на удовлетворение разнообразных потребностей наших клиентов. Благодаря команде опытных и преданных своему делу юристов мы стремимся обеспечить исключительное представительство и стратегические решения в различных областях практики."
+    },
+    "contact_us": {
+      "description": "Оставьте заявку или свяжитесь с нами и мы проконсультируем по всем вопросам"
+    },
+    "news": {
+      "description": "Будьте в курсе последних юридических новостей и содержательных статей от Юридической фирмы Абакус. Наш раздел Новости предоставляет ценную информацию по различным юридическим темам, недавним судебным решениям и тенденциям отрасли."
+    },
+    "lawyers": {
+      "description": "Познакомьтесь с преданной командой опытных юристов в Юридической фирме Абакус. Наши заслуженные адвокаты приносят огромный опыт в различных юридических областях, включая коммерческое право, право в области образования и многое другое."
+    },
+    "cases": {
+      "description": "Сущность проекта заключалась в подготовке Юридического меморандума на предмет анализа законодательства Узбекистана о рынках ценных бумаг и осуществлении деятельности микрофинансовой организации."
+    },
+    "appointment": {
+      "description": "Запишитесь на прием в Юридическую фирму Абакус, чтобы получить экспертное юридическое руководство, адаптированное под ваши конкретные потребности."
+    },
+    "documentation": {
+      "description": "Исследуйте нашу обширную документацию, чтобы получить ценные знания о различных аспектах коммерческого и образовательного права. Юридическая фирма Абакус предоставляет широкий спектр ресурсов, включая юридические статьи, руководства и информаци"
+    },
+    "faq": {
+      "description": "Найдите ответы на часто задаваемые вопросы о коммерческом и образовательном праве в Юридической фирме Абакус. Наш раздел ЧаВо является ценным ресурсом для лиц, компаний и учебных учреждений, ищущих ясность в различных юридических вопросах. Мы собрали список часто задаваемых вопросов и предоставили четкие и краткие ответы, чтобы помочь вам ориентироваться в юридических сложностях."
+    },
+    "our_client": {
+      "description": "Откройте для себя истории успеха ценных клиентов Юридической фирмы Абакус. Наша Витрина клиентов подчеркивает разнообразный спектр предприятий, учебных учреждений и частных лиц, которым нам довелось иметь честь служить."
+    }
+  },
+  "footer": {
+    "about_us": {
+      "description": "Следите за нами на разных платформах"
+    }
+  },
+  "pages": {
+    "main": {
+      "categories_banner": {
+        "title": "Практики"
+      },
+      "lawyers_grid": {
+        "title": "Мы легко решаем сложные вопросы",
+        "Lawyers": "Наша команда",
+        "items": {
+          "1": {
+            "name": "Мухитдин Мустафаев",
+            "positions": { "Senior Business Lawyer": "Управляющий партнер" },
+            "description": "Мухитдин имеет опыт работы более 15-лет в юридической сфере, консультировал местные и международные компании по самому широкому спектру правовых вопросов и задач в рамках стратегических проектов по различным коммерческим вопросам со специализацией по IT, производство и реализацию товаров широкого потребления, медицину и фармацевтику, недвижимость и строительство, банковскую отрасль."
+          },
+          "2": {
+            "name": "Азиз Ахтамов",
+            "positions": { "Senior Business Lawyer": "Управляющий партнер" },
+            "description": "Азиз возглавляет судебную практику Компании и имеет более чем 23-летний опыт в юридической сфере. Азиз сопровождает деятельность фармацевтических, промышленных, торговых, строительных компаний, СМИ, а также деятельность в секторах коммерческого, внешнеторгового, корпоративного, трудового права. Представляет интересы доверителей как в ходе досудебного разрешения споров, так и в судах всех инстанции, включая Верховный Суд Республики Узбекистан. Среди доверителей – представители строительной, нефтегазовой, топливно-энергетической, банковской, страховой, логистической, телекоммуникационной и других отраслей. Является адвокатом с 2012 года и управляющим партнером адвокатской фирмы. С 2023 года является профессиональным медиатором."
+          },
+          "3": {
+            "name": "Акмаль Шаропов",
+            "positions": { "Senior Business Lawyer": "Управляющий партнер" },
+            "description": " Акмаль имеет международный опыт работы в юридической сфере более 11 лет.Специализируется в международно-правовых и трансграничных вопросах ведения предпринимательской деятельности в сфере логистики, поставок руководил международно-правовым департаментом международного холдинга, под управлением которого находились дочерние компании более чем 26 странах мира (США, Европа, Китай, Индия, Турция, Россия и др). В составе команды ABACUS учредил практику банкинга, финтех и налогового регулирования. Руководит всей проектной работой в компании."
+          },
+          "4": {
+            "name": "Наиль Альмяшев",
+            "positions": { "Senior Business Lawyer": "Управляющий партнер" },
+            "description": "Бекзод имеет прогрессивный опыт работы в различных отраслях в области развития бизнеса, финансирования, юридической практики, ценных бумаг, опыт сфере хозяйственного права, международного торгового и авторского права, сопровождение сделок с ценными бумагами и долями иностранных компаний, проведение корпоративных мероприятий (общих собраний акционеров, Наблюдательного Совета, заседаний правлений), подготовка соответствующей документации. Участие в мероприятиях по проведению комплексного юридического и финансового due diligence."
+          },
+          "5": {
+            "name": "Бекзод Каршиев",
+            "positions": { "Senior Business Lawyer": "Партнер" },
+            "description": "Наиль имеет более чем 15-летний опыт в юридической сфере. Он имеет опыт работы в корпоративных, договорно-правовых, трудовых отношениях и прочих вопросах правового характера, а также в области получения различного рода лицензий и разрешительных документов. Наиль начинал свою юридическую карьеру в адвокатской фирме адвокатом по хозяйственным вопросам. До прихода в «ABACUS» он долгое время работал в таких компаниях как Beeline и Ekopen."
+          },
+          "6": {
+            "name": "Валентина Ситникова",
+            "positions": { "Senior Business Lawyer": "Старший Ассоциат" },
+            "description": "Выпускница Высшей школы экономики по специальности «Правовое обеспечение и защита бизнеса». Свою юридическую практику начала с 2015 года, а с 2016 года оказывала услуги по комплексному юридическому сопровождению бизнеса в составе юридической фирмы. Присоединилась к команде «ABACUS» с 2022 года. Принимает участие в правовом сопровождении деятельности логистических, финансовых, it-компаний и других компаний."
+          },
+          "7": {
+            "name": "Сардорбек Мамадалиев",
+            "positions": { "Senior Business Lawyer": "Ассоциат" },
+            "description": "Сардорбек с июня 2022 года работает в компании ABACUS. До прихода в ABACUS получал опыт работы в Торгово-промышленной палате Республики Узбекистан и Ташкентском межрайонном экономическом суде, а также в международной компании, специализирующейся в разработке комплексных смарт-городов. Сардорбек специализируется в претензионно-исковой работе и судебной защите прав и законных интересов субъектов предпринимательства. Сардорбек имеет степень магистра по направлению «Спортивное право». С 2023 года является профессиональным медиатором."
+          },
+          "8": {
+            "name": "Хусанбек Эргашев",
+            "positions": { "Senior Business Lawyer": "Ассоциат" },
+            "description": "Хусанбек изучал гражданское материальное и процессуальное право, международное коммерческое право, международное арбитражное право, международное инвестиционное право в Ташкентском государственном юридическом университете. Являлся членом первой команды от Узбекистана на международном конкурсе права прямых иностранных инвестиций FDI Moot. В настоящий момент применяет на практике весь багаж теоретических знаний. Консультирует клиентов ABACUS по контрактным, трудовым, налоговым, корпоративным и иным вопросам. С 2023 года является профессиональным медиатором."
+          },
+          "9": {
+            "name": "Хамида Муминова",
+            "positions": { "Senior Business Lawyer": "Младший Ассоциат" },
+            "description": " Хамида - выпускница юридического факультета Московского государственного университета. До прихода в команду Abacus Хамида практиковалась в качестве помощника нотариуса и корпоративного юриста в одной из крупных строительных компаний Узбекистана. В настоящее время она получает степень магистра в Ташкентском филиале МГИМО."
+          }
+        }
+      },
+      "finding_helper": {
+        "title": "Мы обеспечиваем полную защиту в рамках закона.",
+        "description": "Вы можете обратиться к нам в любой момент и всегда получить ответ."
+      },
+      "cases": {
+        "title": "Регистрация Цифрового Продукта",
+        "items": {
+          "1": {
+            "title": "Регистрации микрофинансовой организации в Республике Узбекистан",
+            "description": "Проект заключался в регистрации торговой площадки Клиента в Государственном реестре торговых площадок Узбекистана"
+          },
+          "2": {
+            "title": "Консультации по автокредитованию",
+            "description": "Мы консультировали по сделкам, связанным с потребительским кредитом на автомобили, которые передаются потребителю по трехстороннему договору купли-продажи."
+          },
+          "3": {
+            "title": "The Case of William Accused Corruption of Money at Gony Bank",
+            "description": "Unravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of funds"
+          },
+          "4": {
+            "title": "The Case of William Accused Corruption of Money at Gony Bank",
+            "description": "Unravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of funds"
+          },
+          "5": {
+            "title": "The Case of William Accused Corruption of Money at Gony Bank",
+            "description": "Unravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of funds"
+          },
+          "6": {
+            "title": "The Case of William Accused Corruption of Money at Gony Bank",
+            "description": "Unravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of funds"
+          },
+          "7": {
+            "title": "The Case of William Accused Corruption of Money at Gony Bank",
+            "description": "Unravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of funds"
+          },
+          "8": {
+            "title": "The Case of William Accused Corruption of Money at Gony Bank",
+            "description": "Unravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of funds"
+          }
+        }
+      },
+      "history": {
+        "title": "Более 10 лет опыта",
+        "descriptions": {
+          "1": "Success Handled Cases",
+          "2": "Responsible Raised"
+        }
+      },
+      "reviews": {
+        "title": "Отзывы наших клиентов",
+        "items": {
+          "1": {
+            "name": "Анна Постнова - ",
+            "description": "Мы довольны сотрудничеством с юридической фирмой 'Абакус' в решении сложных корпоративных вопросов. Команда профессионалов оперативно реагирует на наши запросы и дает четкие, обоснованные рекомендации. Мы ценим вашу надежность и эффективность!"
+          }
+        }
+      },
+      "news": {
+        "title": "Новости и Обзор Законодательства",
+        "items": {
+          "1": {
+            "title": "Как иностранцу приобрести недвижимость в Узбекистане?",
+            "description": "В данной статье приведен подробный анализ законодательства Узбекистана на предмет приобретения недвижимости иностранцами в Узбекистане"
+          },
+          "2": {
+            "title": "Процедура импорта ОРС в Узбекистан",
+            "description": "В данной статье приведен подробный анализ законодательства Узбекистана на предмет возможности ввоза озоноразрушающих средств"
+          },
+          "3": {
+            "title": "Регистрация МФО в Узбекистане",
+            "description": "В данной статье приведен подробный анализ законодательства Узбекистана на предмет возможности ввоза озоноразрушающих средств"
+          },
+          "4": {
+            "title": "Представительство и постоянное учреждение. В чем разница?",
+            "description": "В данной статье приведен подробный анализ законодательства Узбекистана на предмет возможности ввоза озоноразрушающих средств"
+          }
+        }
+      }
+    },
+    "about_us": {
+      "about_us_banner": {
+        "title_main": "Кто мы?",
+        "title": "Мы Упрощаем Жизни Клиентов",
+        "description": "Для компаний, которые хотят решить свои вопросы удобно и просто, Abacus - проводник в национальном и международном законодательстве, с высокой экспертизой в самых сложных юридических кейсах. С фокусом на безупречный сервис и доступность 24/7, мы помогаем клиентам сосредоточиться на важных делах и обеспечиваем полную защиту в рамках закона."
+      },
+      "welcome_banner": {
+        "title": "Мы — Абакус!",
+        "description": "С 2017 года я и мои партнеры, Акмаль Шаропов и Азиз Ахтамов, помогаем нашим клиентам упрощать жизнь. {br} Мы объединились, чтобы сформировать сильную команду, успешно обслуживать национальные и международные компании, предупреждать риски и обеспечивать защиту, чтобы владельцы могли заниматься развитием бизнеса. В ближайшее время наши задачи – масштабировать накопленный опыт, чтобы все больше компаний могли получать качественные юридические услуги, выйти на международный рынок, открыть новые практики и сосредоточиться на отраслевой специализации."
+      },
+      "vision_misson": {
+        "vision": {
+          "title": "Our Vision",
+          "description": "Наша миссия - упрощение жизни клиентов, их правовая защита и обеспечение безопасности. Правильно составленные контракты или соглашения сегодня, могут помочь избежать проблем завтра. Владельцы бизнеса, руководители компаний, бухгалтера могут легко и просто разобраться в законодательстве с нашей помощью, экономя свое время.<br/> Для компаний, которые хотят решить свои вопросы удобно и просто, Abacus - проводник в национальном и международном законодательстве, с высокой экспертизой в самых сложных юридических кейсах.  С фокусом на безупречный сервис и доступность 24/7, мы помогаем клиентам сосредоточиться на важных делах и обеспечиваем полную защиту в рамках закона."
+        },
+        "mission": {
+          "title": "Our Mission",
+          "description": "Наши основные ценности объединяют всю команду и вдохновляют делать работу с удовольствием. Клиенты чувствуют эти ценности в каждой детали проделанной работы и с каждым касанием с любым сотрудником в компании. <br/><br/> <li style={{ fontFamily: 'Mont-Bold', fontSize: '18px', fontWeight: 700 }}>Фокус на клиентах </li> Мы нацелены на решение различных вопросов и проблем клиентов в сфере закона и права. Наш безупречный сервис, постоянная и мультиканальная доступность обеспечивают их уверенностью в том, что они в любой момент могут обратиться к нам за консультацией и всегда получат ответ.<br/><br/> <li style={{ fontFamily: 'Mont-Bold', fontSize: '18px', fontWeight: 700 }}> <strong>Доверие и честность</stron>  </li> Мы за честность и доверие как в команде, так и в отношениях с клиентами. Клиенты всегда могут быть уверены, что любые конфиденциальные данные остаются внутри компании Abacus и не передаются посторонним лицам. Мы гарантируем, что наши сотрудники трепетно относятся к защите данных и принимают все меры, чтобы предотвратить утечку.<br/><br/> <li style={{ fontFamily: 'Mont-Bold', fontSize: '18px', fontWeight: 700 }}>Экспертиза</li> Подтвержденный опыт и знания нашей команды помогают решать самые сложные кейсы в сфере финтеха, банкинга, IT, и других отраслей. От продажи программного обеспечения до выхода на новый рынок - Abacus знает, как упростить все моменты.<br/><br/> <li style={{ fontFamily: 'Mont-Bold', fontSize: '18px', fontWeight: 700 }}>Новаторство и движение в будущее</li> Мы стартаперы, которые строят человеческие отношения с клиентами. К нам не страшно прийти в свитере и кроссовках. Мы здесь, чтобы помочь клиентам достичь успеха и роста, предупредить риски и обеспечить правовую защиту. Здесь и сейчас мы меняем культуру в сфере правового консалтинга и аутсорса."
+        }
+      },
+      "awards_banner": {
+        "title": "The Best Award Has Been Given To Abacus Legal Lawyer International",
+        "description": "At Abacus Law Firm, we envision a legal landscape where justice prevails and individuals, businesses, and educational institutions can thrive with confidence. Our goal is to be a beacon of excellence in the legal industry, setting new standards for quality, integrity, and innovation.{br} Through our relentless pursuit of justice and unwavering dedication to our clients, we aspire to leave a lasting impact on the communities we serve.",
+        "team_leader": "Denny S - Lead International Legal"
+      }
+    },
+    "services": {
+      "lawyer_categories": {
+        "title": "Наши направления"
+      },
+      "slug": {
+        "prices_banner": {
+          "1": {
+            "title": "Our team of experienced attorneys specializes in education law, offering expert guidance and consultation services. We are dedicated to ensuring that educational institutions, students, and stakeholders receive the legal support they need.{br} Whether it's navigating regulatory compliance or advocating for educational rights, we are here to provide tailored solutions.",
+            "price": "$440,99/ {spanStyleStart} encounter {spanStyleEnd}"
+          },
+          "2": {
+            "title": "Our team of experienced attorneys specializes in education law, offering expert guidance and consultation services. We are dedicated to ensuring that educational institutions, students, and stakeholders receive the legal support they need.{br} Whether it's navigating regulatory compliance or advocating for educational rights, we are here to provide tailored solutions.",
+            "price": "$440,99/ {spanStyleStart} encounter {spanStyleEnd}"
+          },
+          "3": {
+            "title": "Our team of experienced attorneys specializes in education law, offering expert guidance and consultation services. We are dedicated to ensuring that educational institutions, students, and stakeholders receive the legal support they need.{br} Whether it's navigating regulatory compliance or advocating for educational rights, we are here to provide tailored solutions.",
+            "price": "$440,99/ {spanStyleStart} encounter {spanStyleEnd}"
+          },
+          "4": {
+            "title": "Our team of experienced attorneys specializes in education law, offering expert guidance and consultation services. We are dedicated to ensuring that educational institutions, students, and stakeholders receive the legal support they need.{br} Whether it's navigating regulatory compliance or advocating for educational rights, we are here to provide tailored solutions.",
+            "price": "$440,99/ {spanStyleStart} encounter {spanStyleEnd}"
+          },
+          "5": {
+            "title": "Our team of experienced attorneys specializes in education law, offering expert guidance and consultation services. We are dedicated to ensuring that educational institutions, students, and stakeholders receive the legal support they need.{br} Whether it's navigating regulatory compliance or advocating for educational rights, we are here to provide tailored solutions.",
+            "price": "$440,99/ {spanStyleStart} encounter {spanStyleEnd}"
+          },
+          "6": {
+            "title": "Our team of experienced attorneys specializes in education law, offering expert guidance and consultation services. We are dedicated to ensuring that educational institutions, students, and stakeholders receive the legal support they need.{br} Whether it's navigating regulatory compliance or advocating for educational rights, we are here to provide tailored solutions.",
+            "price": "$440,99/ {spanStyleStart} encounter {spanStyleEnd}"
+          },
+          "7": {
+            "title": "Our team of experienced attorneys specializes in education law, offering expert guidance and consultation services. We are dedicated to ensuring that educational institutions, students, and stakeholders receive the legal support they need.{br} Whether it's navigating regulatory compliance or advocating for educational rights, we are here to provide tailored solutions.",
+            "price": "$440,99/ {spanStyleStart} encounter {spanStyleEnd}"
+          },
+          "8": {
+            "title": "Our team of experienced attorneys specializes in education law, offering expert guidance and consultation services. We are dedicated to ensuring that educational institutions, students, and stakeholders receive the legal support they need.{br} Whether it's navigating regulatory compliance or advocating for educational rights, we are here to provide tailored solutions.",
+            "price": "$440,99/ {spanStyleStart} encounter {spanStyleEnd}"
+          }
+        },
+        "lawyer_proccess": {
+          "title": "Legal Lawyer Process",
+          "description": "The Legal Lawyer Process encompasses a series of critical steps designed to ensure effective representation and resolution for our clients. Beginning with a thorough consultation, we meticulously analyze the details of each case. Our experienced legal team then formulates a comprehensive strategy tailored to the unique circumstances",
+          "items": {
+            "1": {
+              "title": "Discuss Problem"
+            },
+            "2": {
+              "title": "Make Agreement"
+            },
+            "3": {
+              "title": "Practice Place"
+            },
+            "4": {
+              "title": "Legal Lawyered"
+            }
+          }
+        },
+        "pro_lawyers": {
+          "title": "Professional Legal Lawyers"
+        }
+      }
+    },
+    "news": {
+      "title": "The Latest News And Blog From Abacus",
+      "slug": {
+        "items": {
+          "1": {
+            "description_full": "Abacus Law Firm has once again demonstrated its unwavering commitment to legal excellence. With a proven track record of providing top-tier legal services, our dedicated team of experts goes above and beyond to ensure our clients receive the highest standard of representation. Our approach is rooted in a deep understanding of the law and a passion for achieving favorable outcomes. We believe in thorough research, strategic planning, and a relentless pursuit of justice. This recent achievement further solidifies our position as a trusted advocate in the legal community. {br} For over a decade, we have been instrumental in resolving a wide range of complex legal issues. From intricate business law matters to sensitive education law cases, our firm has consistently delivered exceptional results. Our client-centric focus and tireless work ethic set us apart. We take pride in not only providing legal solutions, but also in building lasting relationships with our clients. Trust, integrity, and transparency are at the core of everything we do. This recent recognition serves as a testament to our unwavering dedication to upholding the principles of justice. Abacus Law Firm has once again demonstrated its unwavering commitment to legal excellence. With a proven track record of providing top-tier legal services, our dedicated team of experts goes above and beyond to ensure our clients receive the highest standard of representation. {br} Our approach is rooted in a deep understanding of the law and a passion for achieving favorable outcomes. We believe in thorough research, strategic planning, and a relentless pursuit of justice. This recent achievement further solidifies our position as a trusted advocate in the legal community. For over a decade, we have been instrumental in resolving a wide range of complex legal issues. From intricate business law matters to sensitive education law cases, our firm has consistently delivered exceptional results. Our client-centric focus and tireless work ethic set us apart. We take pride in not only providing legal solutions, but also in building lasting relationships with our clients. Trust, integrity, and transparency are at the core of everything we do. This recent recognition serves as a testament to our unwavering dedication to upholding the principles of justice.Abacus Law Firm has once again demonstrated its unwavering commitment to legal excellence. With a proven track record of providing top-tier legal services, our dedicated team of experts goes above and beyond to ensure our clients receive the highest standard of representation. Our approach is rooted in a deep understanding of the law and a passion for achieving favorable outcomes. We believe in thorough research, strategic planning, and a relentless pursuit of justice. This recent achievement further solidifies our position as a trusted advocate in the legal community. {br} For over a decade, we have been instrumental in resolving a wide range of complex legal issues. From intricate business law matters to sensitive education law cases, our firm has consistently delivered exceptional results. Our client-centric focus and tireless work ethic set us apart. We take pride in not only providing legal solutions, but also in building lasting relationships with our clients. Trust, integrity, and transparency are at the core of everything we do. This recent recognition serves as a testament to our unwavering dedication to upholding the principles of justice. Abacus Law Firm has once again demonstrated its unwavering commitment to legal excellence. With a proven track record of providing top-tier legal services, our dedicated team of experts goes above and beyond to ensure our clients receive the highest standard of representation. {br} Our approach is rooted in a deep understanding of the law and a passion for achieving favorable outcomes. We believe in thorough research, strategic planning, and a relentless pursuit of justice. This recent achievement further solidifies our position as a trusted advocate in the legal community. For over a decade, we have been instrumental in resolving a wide range of complex legal issues. From intricate business law matters to sensitive education law cases, our firm has consistently delivered exceptional results. Our client-centric focus and tireless work ethic set us apart. We take pride in not only providing legal solutions, but also in building lasting relationships with our clients. Trust, integrity, and transparency are at the core of everything we do. This recent recognition serves as a testament to our unwavering dedication to upholding the principles of justice."
+          },
+          "2": {
+            "description_full": "Abacus Law Firm has once again demonstrated its unwavering commitment to legal excellence. With a proven track record of providing top-tier legal services, our dedicated team of experts goes above and beyond to ensure our clients receive the highest standard of representation. Our approach is rooted in a deep understanding of the law and a passion for achieving favorable outcomes. We believe in thorough research, strategic planning, and a relentless pursuit of justice. This recent achievement further solidifies our position as a trusted advocate in the legal community. {br} For over a decade, we have been instrumental in resolving a wide range of complex legal issues. From intricate business law matters to sensitive education law cases, our firm has consistently delivered exceptional results. Our client-centric focus and tireless work ethic set us apart. We take pride in not only providing legal solutions, but also in building lasting relationships with our clients. Trust, integrity, and transparency are at the core of everything we do. This recent recognition serves as a testament to our unwavering dedication to upholding the principles of justice. Abacus Law Firm has once again demonstrated its unwavering commitment to legal excellence. With a proven track record of providing top-tier legal services, our dedicated team of experts goes above and beyond to ensure our clients receive the highest standard of representation. {br} Our approach is rooted in a deep understanding of the law and a passion for achieving favorable outcomes. We believe in thorough research, strategic planning, and a relentless pursuit of justice. This recent achievement further solidifies our position as a trusted advocate in the legal community. For over a decade, we have been instrumental in resolving a wide range of complex legal issues. From intricate business law matters to sensitive education law cases, our firm has consistently delivered exceptional results. Our client-centric focus and tireless work ethic set us apart. We take pride in not only providing legal solutions, but also in building lasting relationships with our clients. Trust, integrity, and transparency are at the core of everything we do. This recent recognition serves as a testament to our unwavering dedication to upholding the principles of justice.Abacus Law Firm has once again demonstrated its unwavering commitment to legal excellence. With a proven track record of providing top-tier legal services, our dedicated team of experts goes above and beyond to ensure our clients receive the highest standard of representation. Our approach is rooted in a deep understanding of the law and a passion for achieving favorable outcomes. We believe in thorough research, strategic planning, and a relentless pursuit of justice. This recent achievement further solidifies our position as a trusted advocate in the legal community. {br} For over a decade, we have been instrumental in resolving a wide range of complex legal issues. From intricate business law matters to sensitive education law cases, our firm has consistently delivered exceptional results. Our client-centric focus and tireless work ethic set us apart. We take pride in not only providing legal solutions, but also in building lasting relationships with our clients. Trust, integrity, and transparency are at the core of everything we do. This recent recognition serves as a testament to our unwavering dedication to upholding the principles of justice. Abacus Law Firm has once again demonstrated its unwavering commitment to legal excellence. With a proven track record of providing top-tier legal services, our dedicated team of experts goes above and beyond to ensure our clients receive the highest standard of representation. {br} Our approach is rooted in a deep understanding of the law and a passion for achieving favorable outcomes. We believe in thorough research, strategic planning, and a relentless pursuit of justice. This recent achievement further solidifies our position as a trusted advocate in the legal community. For over a decade, we have been instrumental in resolving a wide range of complex legal issues. From intricate business law matters to sensitive education law cases, our firm has consistently delivered exceptional results. Our client-centric focus and tireless work ethic set us apart. We take pride in not only providing legal solutions, but also in building lasting relationships with our clients. Trust, integrity, and transparency are at the core of everything we do. This recent recognition serves as a testament to our unwavering dedication to upholding the principles of justice."
+          },
+          "3": {
+            "description_full": "Abacus Law Firm has once again demonstrated its unwavering commitment to legal excellence. With a proven track record of providing top-tier legal services, our dedicated team of experts goes above and beyond to ensure our clients receive the highest standard of representation. Our approach is rooted in a deep understanding of the law and a passion for achieving favorable outcomes. We believe in thorough research, strategic planning, and a relentless pursuit of justice. This recent achievement further solidifies our position as a trusted advocate in the legal community. {br} For over a decade, we have been instrumental in resolving a wide range of complex legal issues. From intricate business law matters to sensitive education law cases, our firm has consistently delivered exceptional results. Our client-centric focus and tireless work ethic set us apart. We take pride in not only providing legal solutions, but also in building lasting relationships with our clients. Trust, integrity, and transparency are at the core of everything we do. This recent recognition serves as a testament to our unwavering dedication to upholding the principles of justice. Abacus Law Firm has once again demonstrated its unwavering commitment to legal excellence. With a proven track record of providing top-tier legal services, our dedicated team of experts goes above and beyond to ensure our clients receive the highest standard of representation. {br} Our approach is rooted in a deep understanding of the law and a passion for achieving favorable outcomes. We believe in thorough research, strategic planning, and a relentless pursuit of justice. This recent achievement further solidifies our position as a trusted advocate in the legal community. For over a decade, we have been instrumental in resolving a wide range of complex legal issues. From intricate business law matters to sensitive education law cases, our firm has consistently delivered exceptional results. Our client-centric focus and tireless work ethic set us apart. We take pride in not only providing legal solutions, but also in building lasting relationships with our clients. Trust, integrity, and transparency are at the core of everything we do. This recent recognition serves as a testament to our unwavering dedication to upholding the principles of justice.Abacus Law Firm has once again demonstrated its unwavering commitment to legal excellence. With a proven track record of providing top-tier legal services, our dedicated team of experts goes above and beyond to ensure our clients receive the highest standard of representation. Our approach is rooted in a deep understanding of the law and a passion for achieving favorable outcomes. We believe in thorough research, strategic planning, and a relentless pursuit of justice. This recent achievement further solidifies our position as a trusted advocate in the legal community. {br} For over a decade, we have been instrumental in resolving a wide range of complex legal issues. From intricate business law matters to sensitive education law cases, our firm has consistently delivered exceptional results. Our client-centric focus and tireless work ethic set us apart. We take pride in not only providing legal solutions, but also in building lasting relationships with our clients. Trust, integrity, and transparency are at the core of everything we do. This recent recognition serves as a testament to our unwavering dedication to upholding the principles of justice. Abacus Law Firm has once again demonstrated its unwavering commitment to legal excellence. With a proven track record of providing top-tier legal services, our dedicated team of experts goes above and beyond to ensure our clients receive the highest standard of representation. {br} Our approach is rooted in a deep understanding of the law and a passion for achieving favorable outcomes. We believe in thorough research, strategic planning, and a relentless pursuit of justice. This recent achievement further solidifies our position as a trusted advocate in the legal community. For over a decade, we have been instrumental in resolving a wide range of complex legal issues. From intricate business law matters to sensitive education law cases, our firm has consistently delivered exceptional results. Our client-centric focus and tireless work ethic set us apart. We take pride in not only providing legal solutions, but also in building lasting relationships with our clients. Trust, integrity, and transparency are at the core of everything we do. This recent recognition serves as a testament to our unwavering dedication to upholding the principles of justice."
+          },
+          "4": {
+            "description_full": "Abacus Law Firm has once again demonstrated its unwavering commitment to legal excellence. With a proven track record of providing top-tier legal services, our dedicated team of experts goes above and beyond to ensure our clients receive the highest standard of representation. Our approach is rooted in a deep understanding of the law and a passion for achieving favorable outcomes. We believe in thorough research, strategic planning, and a relentless pursuit of justice. This recent achievement further solidifies our position as a trusted advocate in the legal community. {br} For over a decade, we have been instrumental in resolving a wide range of complex legal issues. From intricate business law matters to sensitive education law cases, our firm has consistently delivered exceptional results. Our client-centric focus and tireless work ethic set us apart. We take pride in not only providing legal solutions, but also in building lasting relationships with our clients. Trust, integrity, and transparency are at the core of everything we do. This recent recognition serves as a testament to our unwavering dedication to upholding the principles of justice. Abacus Law Firm has once again demonstrated its unwavering commitment to legal excellence. With a proven track record of providing top-tier legal services, our dedicated team of experts goes above and beyond to ensure our clients receive the highest standard of representation. {br} Our approach is rooted in a deep understanding of the law and a passion for achieving favorable outcomes. We believe in thorough research, strategic planning, and a relentless pursuit of justice. This recent achievement further solidifies our position as a trusted advocate in the legal community. For over a decade, we have been instrumental in resolving a wide range of complex legal issues. From intricate business law matters to sensitive education law cases, our firm has consistently delivered exceptional results. Our client-centric focus and tireless work ethic set us apart. We take pride in not only providing legal solutions, but also in building lasting relationships with our clients. Trust, integrity, and transparency are at the core of everything we do. This recent recognition serves as a testament to our unwavering dedication to upholding the principles of justice.Abacus Law Firm has once again demonstrated its unwavering commitment to legal excellence. With a proven track record of providing top-tier legal services, our dedicated team of experts goes above and beyond to ensure our clients receive the highest standard of representation. Our approach is rooted in a deep understanding of the law and a passion for achieving favorable outcomes. We believe in thorough research, strategic planning, and a relentless pursuit of justice. This recent achievement further solidifies our position as a trusted advocate in the legal community. {br} For over a decade, we have been instrumental in resolving a wide range of complex legal issues. From intricate business law matters to sensitive education law cases, our firm has consistently delivered exceptional results. Our client-centric focus and tireless work ethic set us apart. We take pride in not only providing legal solutions, but also in building lasting relationships with our clients. Trust, integrity, and transparency are at the core of everything we do. This recent recognition serves as a testament to our unwavering dedication to upholding the principles of justice. Abacus Law Firm has once again demonstrated its unwavering commitment to legal excellence. With a proven track record of providing top-tier legal services, our dedicated team of experts goes above and beyond to ensure our clients receive the highest standard of representation. {br} Our approach is rooted in a deep understanding of the law and a passion for achieving favorable outcomes. We believe in thorough research, strategic planning, and a relentless pursuit of justice. This recent achievement further solidifies our position as a trusted advocate in the legal community. For over a decade, we have been instrumental in resolving a wide range of complex legal issues. From intricate business law matters to sensitive education law cases, our firm has consistently delivered exceptional results. Our client-centric focus and tireless work ethic set us apart. We take pride in not only providing legal solutions, but also in building lasting relationships with our clients. Trust, integrity, and transparency are at the core of everything we do. This recent recognition serves as a testament to our unwavering dedication to upholding the principles of justice."
+          }
+        },
+        "long_cases_banner": {
+          "items": {
+            "1": "The Case of Gani Theft of Money at the Bank",
+            "2": "Mysterious Murder Cases in Manala City",
+            "description": "Abacus Law Firm has once again demonstrated its unwavering commitment to legal excellence. With a proven track record of providing top-tier legal services, our dedicated team of experts goes above and beyond to ensure our clients receive the highest standard of representation. Our approach is rooted in a deep understanding of the law and a passion for achieving favorable outcomes. We believe in thorough research, strategic planning, and a relentless pursuit of justice. This recent achievement further solidifies our position as a trusted advocate in the legal community. {br} For over a decade, we have been instrumental in resolving a wide range of complex legal issues. From intricate business law matters to sensitive education law cases, our firm has consistently delivered exceptional results. Our client-centric focus and tireless work ethic set us apart. We take pride in not only providing legal solutions, but also in building lasting relationships with our clients. Trust, integrity, and transparency are at the core of everything we do. This recent recognition serves as a testament to our unwavering dedication to upholding the principles of justice. Abacus Law Firm has once again demonstrated its unwavering commitment to legal excellence. With a proven track record of providing top-tier legal services, our dedicated team of experts goes above and beyond to ensure our clients receive the highest standard of representation."
+          }
+        }
+      }
+    },
+    "lawyers": {
+      "slug": {
+        "items": {
+          "1": {
+            "description": "Desy Willy, our esteemed Senior Business Lawyer, brings a wealth of expertise and a proven track record in the field of business law. With years of experience, Desy has successfully navigated complex legal landscapes, providing strategic guidance and effective solutions for our clients. Known for her sharp legal acumen and dedication to achieving favorable outcomes, Desy is a trusted advocate in the business community."
+          },
+          "2": {
+            "description": "Desy Willy, our esteemed Senior Business Lawyer, brings a wealth of expertise and a proven track record in the field of business law. With years of experience, Desy has successfully navigated complex legal landscapes, providing strategic guidance and effective solutions for our clients. Known for her sharp legal acumen and dedication to achieving favorable outcomes, Desy is a trusted advocate in the business community."
+          },
+          "3": {
+            "description": "Desy Willy, our esteemed Senior Business Lawyer, brings a wealth of expertise and a proven track record in the field of business law. With years of experience, Desy has successfully navigated complex legal landscapes, providing strategic guidance and effective solutions for our clients. Known for her sharp legal acumen and dedication to achieving favorable outcomes, Desy is a trusted advocate in the business community."
+          },
+          "4": {
+            "description": "Desy Willy, our esteemed Senior Business Lawyer, brings a wealth of expertise and a proven track record in the field of business law. With years of experience, Desy has successfully navigated complex legal landscapes, providing strategic guidance and effective solutions for our clients. Known for her sharp legal acumen and dedication to achieving favorable outcomes, Desy is a trusted advocate in the business community."
+          },
+          "5": {
+            "description": "Desy Willy, our esteemed Senior Business Lawyer, brings a wealth of expertise and a proven track record in the field of business law. With years of experience, Desy has successfully navigated complex legal landscapes, providing strategic guidance and effective solutions for our clients. Known for her sharp legal acumen and dedication to achieving favorable outcomes, Desy is a trusted advocate in the business community."
+          },
+          "6": {
+            "description": "Desy Willy, our esteemed Senior Business Lawyer, brings a wealth of expertise and a proven track record in the field of business law. With years of experience, Desy has successfully navigated complex legal landscapes, providing strategic guidance and effective solutions for our clients. Known for her sharp legal acumen and dedication to achieving favorable outcomes, Desy is a trusted advocate in the business community."
+          }
+        },
+        "latest_cases": {
+          "description": "Our Latest Lawyered Cases showcase our firm's unwavering commitment to delivering top-notch legal representation. These cases represent a diverse range of legal challenges, from business disputes to education law matters. With a proven track record of success, our team of skilled lawyers has consistently achieved favorable outcomes for our valued clients. Explore these cases to witness our expertise in action",
+          "items": {
+            "1": {
+              "title": "Case of Willy Accused Corruption of Money at Gony Bank",
+              "description": "Our Latest Lawyered Cases showcase our firm's unwavering commitment to delivering top-notch legal representation. These cases represent a diverse range of legal challenges, from business disputes to education law matters. With a proven track record of success, our team of skilled lawyers has consistently achieved favorable outcomes for our valued clients."
+            },
+            "2": {
+              "title": "Case of Willy Accused Corruption of Money at Gony Bank",
+              "description": "Our Latest Lawyered Cases showcase our firm's unwavering commitment to delivering top-notch legal representation. These cases represent a diverse range of legal challenges, from business disputes to education law matters. With a proven track record of success, our team of skilled lawyers has consistently achieved favorable outcomes for our valued clients."
+            }
+          }
+        }
+      }
+    },
+    "cases": {
+      "description": "Explore the successful cases handled by Abacus Law Firm. Our accomplished legal team has a proven track record of achieving favorable outcomes for our clients. From business law disputes to education law matters, we've demonstrated our commitment to delivering top-notch legal representation.",
+      "slug": {
+        "items": {
+          "1": {
+            "description_full": "Подготовка проекта юридического меморандума юристами ABACUS с поэтапными и подробными инструкциями по регистрации микрофинансовой организации, включая рекомендации относительно требований к микрофинансовой органиазции, подготовку документов, необходимых для регистрации и сопровождение регистрации организации микрофинансирования. <br/><br/> Юристы ABACUS предоставили Клиенту подробную информацию о нормативных и правовых требованиях к созданию микрофинансовой компании в Узбекистане, включая требования к (а) капиталу; (b) ликвидности; (с) кредиту; (d) операции; (е) другим требованиям к управлению рисками; (f) подробные сведения о товарах и услугах (предоставление займов, погашение, продление, установление максимальных процентных ставок, в разбивке по валютам); - (g) процедуры приема клиентов через несколько каналов, включая банкоматы, партнерство с поставщиками платежей; (h) корпоративное управление; (i) другие требования, ограничения, которые могут  представлять интерес с точки зрения инвестора; (j) дорожная карта; (включая сроки) исполнения.<br/><br/> Реализация проекта позволил Клиенту начать свою деятельность в Узбекистане.",
+            "date": "Декабрь, 2020 - Январь, 2021",
+            "client_position": "TBC Bank"
+          },
+          "2": {
+            "description_full": "Unravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of fundsUnravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of funds {br} Unravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of fundsUnravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of funds",
+            "date": "December,11 2022 - January,8 2023",
+            "client_position": "Manager at Gony Bank"
+          },
+          "3": {
+            "description_full": "Unravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of fundsUnravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of funds {br} Unravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of fundsUnravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of funds",
+            "date": "December,11 2022 - January,8 2023",
+            "client_position": "Manager at Gony Bank"
+          },
+          "4": {
+            "description_full": "Unravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of fundsUnravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of funds {br} Unravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of fundsUnravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of funds",
+            "date": "December,11 2022 - January,8 2023",
+            "client_position": "Manager at Gony Bank"
+          },
+          "5": {
+            "description_full": "Unravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of fundsUnravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of funds {br} Unravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of fundsUnravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of funds",
+            "date": "December,11 2022 - January,8 2023",
+            "client_position": "Manager at Gony Bank"
+          },
+          "6": {
+            "description_full": "Unravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of fundsUnravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of funds {br} Unravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of fundsUnravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of funds",
+            "date": "December,11 2022 - January,8 2023",
+            "client_position": "Manager at Gony Bank"
+          },
+          "7": {
+            "description_full": "Unravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of fundsUnravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of funds {br} Unravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of fundsUnravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of funds",
+            "date": "December,11 2022 - January,8 2023",
+            "client_position": "Manager at Gony Bank"
+          },
+          "8": {
+            "description_full": "Unravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of fundsUnravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of funds {br} Unravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of fundsUnravel the intricate case of William, accused of financial impropriety at Gony Bank. Join us on a journey through the legal process as we navigate the complexities surrounding alleged corruption of funds",
+            "date": "December,11 2022 - January,8 2023",
+            "client_position": "Manager at Gony Bank"
+          }
+        },
+        "attorney_banner": {
+          "title": "Ключевые лица",
+          "description": "Explore the successful cases handled by Abacus Law Firm. Our accomplished legal team has a proven track record of achieving favorable outcomes for our clients. From business law disputes to education law matters, we've demonstrated our commitment to delivering top-notch legal representation."
+        }
+      }
+    },
+    "appointment": {
+      "title": "Let's Make an Appointment with us first"
+    },
+    "documentation": {
+      "description": "Our Video Documentation provides valuable insights into various aspects of business and education law. These informative videos cover a wide range of topics, offering expert guidance and practical solutions",
+      "items": {
+        "1": {
+          "title": "4 Evidence on Geolan's murder conviction at the coffee shop",
+          "date": "December,19 2022",
+          "minute": "34 minutes"
+        },
+        "2": {
+          "title": "4 Evidence on Geolan's murder conviction at the coffee shop",
+          "date": "December,19 2022",
+          "minute": "34 minutes"
+        },
+        "3": {
+          "title": "4 Evidence on Geolan's murder conviction at the coffee shop",
+          "date": "December,19 2022",
+          "minute": "34 minutes"
+        },
+        "4": {
+          "title": "4 Evidence on Geolan's murder conviction at the coffee shop",
+          "date": "December,19 2022",
+          "minute": "34 minutes"
+        },
+        "5": {
+          "title": "4 Evidence on Geolan's murder conviction at the coffee shop",
+          "date": "December,19 2022",
+          "minute": "34 minutes"
+        },
+        "6": {
+          "title": "4 Evidence on Geolan's murder conviction at the coffee shop",
+          "date": "December,19 2022",
+          "minute": "34 minutes"
+        },
+        "7": {
+          "title": "4 Evidence on Geolan's murder conviction at the coffee shop",
+          "date": "December,19 2022",
+          "minute": "34 minutes"
+        },
+        "8": {
+          "title": "4 Evidence on Geolan's murder conviction at the coffee shop",
+          "date": "December,19 2022",
+          "minute": "34 minutes"
+        }
+      }
+    },
+    "faq": {
+      "items": {
+        "1": {
+          "title": "How can my case not lighten the criminal sentence?",
+          "description": "If you're wondering why your case didn't result in a lighter criminal sentence, there could be several factors at play. It's important to understand that each case is unique, and outcomes are influenced by a variety of legal considerations. These may include the nature of the offense, evidence presented, legal procedures followed, and the judge's discretion. Consulting with a qualified attorney can help provide clarity on your specific situation and explore potential avenues for appeal or mitigation."
+        },
+        "2": {
+          "title": "How long can I hire a lawyer and what is the maximum?",
+          "description": "When it comes to hiring a lawyer, the duration can vary widely depending on the nature and complexity of your case. Some legal matters may only require short-term representation, while others, particularly complex or ongoing cases, may necessitate a longer-term commitment. There is typically no strict maximum duration for hiring a lawyer. It's crucial to discuss the expected duration and terms of representation with your attorney at the outset of your engagement to ensure both parties are aligned on the scope of work and timeline."
+        },
+        "3": {
+          "title": "Will I be able to hire a lawyer after I enter a crime",
+          "description": "Yes, you have the right to hire a lawyer at any point during a criminal case, including after being charged with a crime. It's important to consult with a lawyer as soon as possible to ensure your rights are protected and to receive proper legal advice and representation throughout the legal process."
+        },
+        "4": {
+          "title": "How long can I hire a lawyer and what is the maximum?",
+          "description": "There is generally no specific time limit on when you can hire a lawyer after being accused of a crime. You have the right to hire legal representation at any point during the criminal justice process, from the moment you are accused until the conclusion of your case. However, it is advisable to seek legal counsel as soon as possible to ensure that your rights are protected and to build a strong defense. The maximum duration for which you can have legal representation depends on the duration of your legal proceedings. Some cases may be resolved quickly, while others may take longer. Your lawyer will continue to represent you until your case reaches a resolution, whether it's through a trial, a plea bargain, or a dismissal of charges. It's important to maintain open communication with your lawyer throughout the entire process."
+        }
+      }
+    },
+    "our_client": {
+      "title": "We are Reached International Client",
+      "items": {
+        "1": {
+          "title": "Governan Pte Ltd",
+          "description": "Governan Pte Ltd is a leading consultancy firm specializing in governance, risk management, and compliance solutions. With a dedicated team of experts, we help organizations navigate complex regulatory landscapes, implement robust governance frameworks, and optimize their risk management processes. Our tailored solutions are designed to enhance operational efficiency, ensure regulatory compliance, and drive sustainable business growth. Partner with Governan Pte Ltd for comprehensive GRC expertise that empowers your organization to thrive in today's dynamic business environment.",
+          "location": "+79 Mechanic Rd.Miami, FL 33125"
+        },
+        "2": {
+          "title": "Governan Pte Ltd",
+          "description": "Governan Pte Ltd is a leading consultancy firm specializing in governance, risk management, and compliance solutions. With a dedicated team of experts, we help organizations navigate complex regulatory landscapes, implement robust governance frameworks, and optimize their risk management processes. Our tailored solutions are designed to enhance operational efficiency, ensure regulatory compliance, and drive sustainable business growth. Partner with Governan Pte Ltd for comprehensive GRC expertise that empowers your organization to thrive in today's dynamic business environment.",
+          "location": "+79 Mechanic Rd.Miami, FL 33125"
+        },
+        "3": {
+          "title": "Governan Pte Ltd",
+          "description": "Governan Pte Ltd is a leading consultancy firm specializing in governance, risk management, and compliance solutions. With a dedicated team of experts, we help organizations navigate complex regulatory landscapes, implement robust governance frameworks, and optimize their risk management processes. Our tailored solutions are designed to enhance operational efficiency, ensure regulatory compliance, and drive sustainable business growth. Partner with Governan Pte Ltd for comprehensive GRC expertise that empowers your organization to thrive in today's dynamic business environment.",
+          "location": "+79 Mechanic Rd.Miami, FL 33125"
+        },
+        "4": {
+          "title": "Governan Pte Ltd",
+          "description": "Governan Pte Ltd is a leading consultancy firm specializing in governance, risk management, and compliance solutions. With a dedicated team of experts, we help organizations navigate complex regulatory landscapes, implement robust governance frameworks, and optimize their risk management processes. Our tailored solutions are designed to enhance operational efficiency, ensure regulatory compliance, and drive sustainable business growth. Partner with Governan Pte Ltd for comprehensive GRC expertise that empowers your organization to thrive in today's dynamic business environment.",
+          "location": "+79 Mechanic Rd.Miami, FL 33125"
+        },
+        "5": {
+          "title": "Governan Pte Ltd",
+          "description": "Governan Pte Ltd is a leading consultancy firm specializing in governance, risk management, and compliance solutions. With a dedicated team of experts, we help organizations navigate complex regulatory landscapes, implement robust governance frameworks, and optimize their risk management processes. Our tailored solutions are designed to enhance operational efficiency, ensure regulatory compliance, and drive sustainable business growth. Partner with Governan Pte Ltd for comprehensive GRC expertise that empowers your organization to thrive in today's dynamic business environment.",
+          "location": "+79 Mechanic Rd.Miami, FL 33125"
+        },
+        "6": {
+          "title": "Governan Pte Ltd",
+          "description": "Governan Pte Ltd is a leading consultancy firm specializing in governance, risk management, and compliance solutions. With a dedicated team of experts, we help organizations navigate complex regulatory landscapes, implement robust governance frameworks, and optimize their risk management processes. Our tailored solutions are designed to enhance operational efficiency, ensure regulatory compliance, and drive sustainable business growth. Partner with Governan Pte Ltd for comprehensive GRC expertise that empowers your organization to thrive in today's dynamic business environment.",
+          "location": "+79 Mechanic Rd.Miami, FL 33125"
+        },
+        "7": {
+          "title": "Governan Pte Ltd",
+          "description": "Governan Pte Ltd is a leading consultancy firm specializing in governance, risk management, and compliance solutions. With a dedicated team of experts, we help organizations navigate complex regulatory landscapes, implement robust governance frameworks, and optimize their risk management processes. Our tailored solutions are designed to enhance operational efficiency, ensure regulatory compliance, and drive sustainable business growth. Partner with Governan Pte Ltd for comprehensive GRC expertise that empowers your organization to thrive in today's dynamic business environment.",
+          "location": "+79 Mechanic Rd.Miami, FL 33125"
+        },
+        "8": {
+          "title": "Governan Pte Ltd",
+          "description": "Governan Pte Ltd is a leading consultancy firm specializing in governance, risk management, and compliance solutions. With a dedicated team of experts, we help organizations navigate complex regulatory landscapes, implement robust governance frameworks, and optimize their risk management processes. Our tailored solutions are designed to enhance operational efficiency, ensure regulatory compliance, and drive sustainable business growth. Partner with Governan Pte Ltd for comprehensive GRC expertise that empowers your organization to thrive in today's dynamic business environment.",
+          "location": "+79 Mechanic Rd.Miami, FL 33125"
+        },
+        "9": {
+          "title": "Governan Pte Ltd",
+          "description": "Governan Pte Ltd is a leading consultancy firm specializing in governance, risk management, and compliance solutions. With a dedicated team of experts, we help organizations navigate complex regulatory landscapes, implement robust governance frameworks, and optimize their risk management processes. Our tailored solutions are designed to enhance operational efficiency, ensure regulatory compliance, and drive sustainable business growth. Partner with Governan Pte Ltd for comprehensive GRC expertise that empowers your organization to thrive in today's dynamic business environment.",
+          "location": "+79 Mechanic Rd.Miami, FL 33125"
+        }
+      }
+    }
+  }
+}
